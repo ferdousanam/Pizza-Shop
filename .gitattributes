@@ -1,0 +1,9 @@
+#
+*                   text=auto
+#
+user_guide/*        linguist-vendored
+#
+README.md           export-ignore
+contributing.md     export-ignore
+CHANGELOG.md        export-ignore
+user_guide/         export-ignore
